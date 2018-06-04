@@ -69,7 +69,7 @@ Date: 2018.06.04
 参考：[可视化 Visualization](https://keras.io/zh/visualization/)  
 >Keras可视化函数依赖**Pydot**和**Graphviz**。
 
-###Pydot安装
+### Pydot安装
 
 	pip install pydot
 或  
