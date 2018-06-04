@@ -49,12 +49,18 @@ Date: 2018.06.04
 	则安装成功。
 
 5. Keras  
+
 		pip install keras -U --pre
-	测试：  
+
+	测试：
+  
 		import keras
-	若输出：  
+
+	若输出：
+  
 		Using Tensorflow backend.
 		......
+
 	则安装成功。
 
 
@@ -66,7 +72,7 @@ Date: 2018.06.04
 ###Pydot安装
 
 	pip install pydot
-或
+或  
 
 	conda install pydot
 
