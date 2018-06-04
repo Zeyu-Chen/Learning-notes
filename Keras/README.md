@@ -13,8 +13,7 @@ Date: 2018.06.04
 
 参考：[Keras安装和配置指南（Windows）](http://keras-cn.readthedocs.io/en/latest/for_beginners/keras_windows/)
 
-1. Anaconda（Python 3.6, 64-Bit）
-
+1. Anaconda（Python 3.6, 64-Bit)  
 	[Download Anaconda](https://www.anaconda.com/download/)  
 	[Anaconda指令](https://blog.csdn.net/fyuanfena/article/details/52080270)
 
@@ -22,13 +21,11 @@ Date: 2018.06.04
 	目前，Tensorflow最新版仅支持CUDA 9.0，下载Windows x86_64 exe(local)版本。  
 	[CUDA 9.0](https://developer.nvidia.com/cuda-90-download-archive)
 
-3. CuDNN
-  
+3. CuDNN  
 	下载[CuDNN 7.0 for CUDA 9.0](https://developer.nvidia.com/rdp/cudnn-archive)  
 	解压名为cuda的文件夹，将bin、include、lib内的文件复制到安装CUDA地址下的对应文件夹
 
-4. Tensorflow
-
+4. Tensorflow  
 	参考：  
 	[在 Windows 上安装 TensorFlow](https://www.tensorflow.org/install/install_windows)  
 
