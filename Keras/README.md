@@ -1,7 +1,5 @@
 # Keras Learning Notes
 
----
-
 Author: Zeyu
 
 ### 文档:
