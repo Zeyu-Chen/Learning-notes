@@ -1,4 +1,4 @@
-# Keras Learning Notes
+# Keras-notes
 
 Author: Zeyu
 

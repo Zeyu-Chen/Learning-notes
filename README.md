@@ -1,1 +1,3 @@
-# Learning-notes
+# Learning notes
+
+Learning notes of different stuff.
