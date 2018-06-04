@@ -4,7 +4,7 @@ Author: Zeyu
 
 ### 文档:
 
-[Keras中文文档- keras.io](https://keras.io/zh/)
+[Keras中文文档- keras.io](https://keras.io/zh/)  
 [Keras中文文档 - readthedocs.io](http://keras-cn.readthedocs.io/en/latest/)
 
 ## Keras安装（Tensorflow Backend）
